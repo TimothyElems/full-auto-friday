@@ -3,7 +3,7 @@ all good programmers start with documentation
 
 This first program is showing how to find patterns without usign Regular Expressions. A sort of before and after approach to the thingy.
 '''
-
+print('I\'m too segsy for my shirt.')
 def isPhoneNumber(text):
 	if len(text) != 12:
 		return False 
